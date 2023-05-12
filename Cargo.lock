@@ -1023,7 +1023,7 @@ dependencies = [
 
 [[package]]
 name = "winit_input_helper_temp"
-version = "0.14.1"
+version = "0.14.2"
 dependencies = [
  "winit",
 ]
