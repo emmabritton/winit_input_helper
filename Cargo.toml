@@ -1,13 +1,10 @@
 [package]
-name = "winit_input_helper"
-repository = "https://github.com/rukai/winit_input_helper"
-version = "0.14.1"
+name = "winit_input_helper_temp"
+repository = "https://github.com/emmabritton/winit_input_helper"
+version = "0.14.2"
 edition = "2021"
-authors = ["Rukai <rubickent@gmail.com>"]
+authors = ["Rukai <rubickent@gmail.com>", "Emma Britton <emmabritton@pm.me>"]
 license = "MIT"
-description = "Processes winit events, allowing input state to be queried at any time."
-keywords = ["winit", "input", "helper", "state", "cache"]
-categories = ["game-engines", "os", "gui"]
 
 [dependencies]
 winit = { version = "0.28", default-features = false }
