@@ -5,6 +5,7 @@ version = "0.14.2"
 edition = "2021"
 authors = ["Rukai <rubickent@gmail.com>", "Emma Britton <emmabritton@pm.me>"]
 license = "MIT"
+description = "Temp version of winit_input_helper with horz scrolling"
 
 [dependencies]
 winit = { version = "0.28", default-features = false }
